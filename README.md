@@ -43,26 +43,17 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Tools
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+My basic setup on a Mac includes the following:
 
-### Analyzing the Bundle Size
+* VS Code
+* iTerm2 (using _zsh_ and _ohmyzsh_)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+## Goal
 
-### Making a Progressive Web App
+To create a basic Blackjack casino-style game.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+* The game should be able to support 1-4 players.
+* The user can select how many decks of cards are used.
+* The dealer plays by casino rules (must hit up to 17) and then stop.
